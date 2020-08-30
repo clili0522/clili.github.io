@@ -5,9 +5,9 @@ header-img: img/post-bg-swift.jpg
 email: 844468152@qq.com
 description: "看庭前花开花落，望天上云卷云舒"
 keyword: "Lili, Lili Blog, 粒粒的博客, cailili, clili"
-url: "http://clili.github.io"          # your host, for absolute URL
+url: "http://clili0522.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/clili0522/clili.github.io.git" # you code repository
+github_repo: "https://github.com/clili0522/clili0522.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/lili.jpeg     # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     
+# zhihu_username:     
+# github_username:    
+# facebook_username:  
+# jianshu_username:   
+#twitter_username:   
 
 
 
