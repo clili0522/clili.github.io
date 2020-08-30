@@ -3,7 +3,7 @@ title: Lili Blog
 SEOTitle: 粒粒的博客 | Lili Blog
 header-img: img/post-bg-swift.jpg
 email: 844468152@qq.com
-description: "看庭前花开花落，望天上云卷云舒"
+description: "May there be enough clouds in your life to make a beautiful sunset"
 keyword: "Lili, Lili Blog, 粒粒的博客, cailili, clili"
 url: "http://clili0522.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/clili0522/clili0522.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "佛系且可爱～"
+sidebar-about-description: "看庭前花开花落，望天上云卷云舒"
 sidebar-avatar: /img/lili.jpeg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
