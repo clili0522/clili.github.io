@@ -1,6 +1,6 @@
 # Site settings
 title: Lili Blog
-SEOTitle: 粒粒的博客 | BY Blog
+SEOTitle: 粒粒的博客 | Lili Blog
 header-img: img/post-bg-swift.jpg
 email: 844468152@qq.com
 description: "看庭前花开花落，望天上云卷云舒"
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 # gitalk:
 #   enable: true    #是否开启Gitalk评论
-#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#   repo: clili.github.io    #仓库名称
-#   owner: qiubaiying    #github用户名
-#   admin: qiubaiying
+#   clientID:                             #生成的clientID
+#   clientSecret:     #生成的clientSecret
+#   repo:     #仓库名称
+#   owner:     #github用户名
+#   admin: 
 #   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -77,8 +77,8 @@ kramdown:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # # Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id:              # Format: UA-xxxxxx-xx
+# ga_domain:                # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
